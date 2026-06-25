@@ -60,13 +60,12 @@ El problema se resolvió reconstruyendo las dimensiones con valores DISTINCT par
 
 ## Páginas del panel de control
 
-![Overview](Images/Executive-Overview.jpg)
-
-
 ### Resumen ejecutivo
 - Recomendaciones totales
 - Distribución de fertilizantes
 - Filtros de suelo y cultivo
+
+![Overview](Images/Executive-Overview.jpg)
 
 ### Análisis NPK
 
