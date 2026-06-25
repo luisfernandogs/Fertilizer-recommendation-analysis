@@ -1,6 +1,6 @@
 # Fertilizer-recommendation-analysis
 
-# Análisis de recomendaciones de fertilización
+# 📊 Dashboard de Análisis de recomendaciones de fertilización - Power BI
 
 ## Resumen
 
@@ -77,9 +77,6 @@ Se implementó un modelo de esquema de estrella:
 ## Principales hallazgos
 
 - La urea fue uno de los fertilizantes más recomendados.
-
 - Los perfiles de nutrientes varían significativamente entre los diferentes tipos de fertilizantes.
-
 - El tipo de suelo influye en las recomendaciones de fertilización.
-
 - Las condiciones ambientales afectan la selección de fertilizantes.
