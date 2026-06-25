@@ -46,9 +46,21 @@ Se implementó un modelo de esquema de estrella:
 - DimCrop
 - DimFertilizer
 
+![Overview](Images/Modelado-de-datos.jpg)
+
+---
+
+## Desafíos encontrados
+
+Durante el proceso de modelado dimensional, se identificó un problema: la presencia de registros duplicados en las tablas de dimensiones generaba un efecto de multiplicación de filas al crear la tabla de hechos.
+
+El problema se resolvió reconstruyendo las dimensiones con valores DISTINCT para cada dimension.
+
 ---
 
 ## Páginas del panel de control
+
+![Overview](Images/Executive-Overview.jpg)
 
 
 ### Resumen ejecutivo
@@ -62,15 +74,21 @@ Se implementó un modelo de esquema de estrella:
 - Análisis de fósforo
 - Análisis de potasio
 
+![NPK](Images/Análisis-de-Nutrientes-(NPK).jpg)
+
 ### Análisis de suelo y cultivo
 - Recomendaciones de fertilizantes por cultivo
 - Recomendaciones de fertilizantes por Suelo
+
+![Soil Crop](Images/Suelo-Cultivos.jpg)
 
 ### Condiciones ambientales
 
 - Análisis de temperatura
 - Análisis de humedad
 - Análisis de humedad del suelo
+  
+![Environmental](Images/Condiciones-Ambientales.jpg)
 
 ---
 
