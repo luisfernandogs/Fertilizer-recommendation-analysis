@@ -80,3 +80,10 @@ Se implementó un modelo de esquema de estrella:
 - Los perfiles de nutrientes varían significativamente entre los diferentes tipos de fertilizantes.
 - El tipo de suelo influye en las recomendaciones de fertilización.
 - Las condiciones ambientales afectan la selección de fertilizantes.
+
+---
+
+## Autor
+
+Luis Fernando Guzmán Suárez
+DATA ANALYST JUNIOR | EXCEL | POWER BI | SQL | Estadística aplicada | Lean Six Sigma Yellow Belt
