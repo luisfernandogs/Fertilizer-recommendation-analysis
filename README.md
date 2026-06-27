@@ -103,4 +103,4 @@ El problema se resolvió reconstruyendo las dimensiones con valores DISTINCT par
 ## Autor
 
 Luis Fernando Guzmán Suárez
-DATA ANALYST | EXCEL | POWER BI | SQL | Estadística aplicada | Lean Six Sigma Yellow Belt
+DATA ANALYST | EXCEL | POWER BI | SQL | Python | Estadística aplicada | Minería de datos | Lean Six Sigma Yellow Belt
